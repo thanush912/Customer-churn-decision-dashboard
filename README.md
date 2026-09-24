@@ -2,6 +2,7 @@
 
 A three-page interactive business-intelligence dashboard that turns the IBM Telco Customer Churn dataset into clear, actionable decisions for business owners and managers.
 
+Live Demo: [Customer-churn-decision-dashboard](customer-churn-decision-dashboard.streamlit.app)
 ---
 
 ## Problem Statement
